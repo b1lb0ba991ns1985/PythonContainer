@@ -6,7 +6,7 @@ Install Visual Studio Code
 Download repository into a folder
 
 ## Instalation Instructions
-Open folder in VS Code
+Open folder in VS Code \n
 Click Run -> terminal in VS Code
 Run the following command in the terminal
 
