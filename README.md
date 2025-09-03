@@ -1,7 +1,7 @@
 # Debian Python Docker Container for easy development
 
 ## Pre requisites
-Install Docker or Docker Desktop 
+Install Docker or Docker Desktop <br>
 Install Visual Studio Code 
 Download repository into a folder 
 
