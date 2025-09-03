@@ -6,13 +6,13 @@ Install Visual Studio Code
 Download repository into a folder
 
 ## Instalation Instructions
-Open folder in VS Code \n
-Click Run -> terminal in VS Code
-Run the following command in the terminal
+Open folder in VS Code.
+Click Run -> terminal in VS Code.
+Run the following command in the terminal.
 
 > docker-compose up
 
-Open CMD or Terminal in the host OS and run
+Open CMD or Terminal in the host OS and rund
 > docker ps -a
 
 Note the container ID for the PythonUdemy app
